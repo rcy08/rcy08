@@ -2,11 +2,13 @@
 
 ###
 
-<p align="center">I'm a final year UG student at IIT Indore with a passion for competitive programming and software development.</p>
+<p align="left">I'm a final year UG student at IIT Indore with a passion for competitive programming and software development.</p>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rcy08.rcy08&left_color=gray&right_color=forestgreen&left_text=Profile%20Views"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rcy08.rcy08&left_color=gray&right_color=forestgreen&left_text=Profile%20Views"  />
+</div>
 
 ###
 
@@ -106,18 +108,3 @@
 <img src="https://raw.githubusercontent.com/rcy08/rcy08/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!--
-**rcy08/rcy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
