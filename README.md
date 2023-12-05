@@ -1,8 +1,8 @@
-<h3 align="center">Hi! I'm Chinmay👋</h3>
+<h2 align="left">Hi! I'm Chinmay👋</h2>
 
 ###
 
-<p align="left">I'm a final year UG student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" > IIT Indore </a> with a passion for competitive programming and software development. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" > Portfolio </a> </p>
+<p align="left">I'm a Final Year Undergraduate Student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" >IIT Indore</a> with a passion for Competitive Programming and Software Development. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" >Portfolio</a>.</p>
 
 ###
 
@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">Languages and Tools/Frameworks</p>
+<hr />
+
+<h4 align="left">Languages and Tools/Frameworks</h4>
 
 ###
 
@@ -68,7 +70,9 @@
 
 ###
 
-<p align="left">Let's Connect</p>
+<hr />
+
+<h4 align="left">Let's Connect</h4>
 
 ###
 
@@ -91,7 +95,9 @@
 
 ###
 
-<p align="left">Stats</p>
+<hr />
+
+<h4 align="left">Stats</h4>
 
 ###
 
