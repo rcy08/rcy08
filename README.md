@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a final year UG student at IIT Indore with a passion for competitive programming and software development.</p>
+<p align="left">I'm a final year UG student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" > IIT Indore </a> with a passion for competitive programming and software development. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" > Portfolio </a> </p>
 
 ###
 
