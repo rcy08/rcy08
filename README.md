@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Final Year Undergraduate Student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" >IIT Indore</a> with a passion for Competitive Programming and Software Development. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" >Portfolio</a>.</p>
+<p align="left">I'm a Final Year Undergraduate Student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" >IIT Indore</a> with a passion for <p style={font-weight: bold} >Competitive Programming</p>and <p style={font-weight: bold} >Software Development</p>. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" >Portfolio</a>.</p>
 
 ###
 
