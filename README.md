@@ -90,8 +90,12 @@
   <a href="https://twitter.com/_rcy08_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://discordapp.com/users/988260507179954266" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/rcy08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -104,11 +108,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rcy08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="175" alt="stats graph"
-    style="margin-bottom: 30px;" />
+    style="margin-bottom: 50px;" />
   <img src="https://streak-stats.demolab.com?user=rcy08&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="175" alt="streak graph" 
-    style="margin-bottom: 30px;" />
+    style="margin-bottom: 50px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcy08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&custom_title=Most%20Used%20Languages" height="175" alt="languages graph"  
-    style="margin-bottom: 30px;" />
+    style="margin-bottom: 50px;" />
 </div>
 
 ###
