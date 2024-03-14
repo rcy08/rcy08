@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Final Year Undergraduate Student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" >IIT Indore</a> with a passion for Competitive Programming and Software Development. Want to know more about me ? Check out my <a href="https://rc08.vercel.app" style={text: underlined, color: blue} target="_blank" >Portfolio</a>.</p>
+<p align="left">I'm a Final Year Undergraduate Student at <a href="https://iiti.ac.in" style={text: underlined, color: blue} target="_blank" >IIT Indore</a> with a passion for Competitive Programming and Software Development. Want to know more about me ? Check out my <a href="https://www.rc08.pro" style={text: underlined, color: blue} target="_blank" >Portfolio</a>.</p>
 
 ###
 
@@ -49,7 +49,13 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="aws logo" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="50" alt="framer logo" />
+  <img width="25" />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo" />
   <img width="25" />
